@@ -1,4 +1,4 @@
-# TITIY
+#TITIY
 
 Hi! Thank you for downloading TITIY: the Tap-It That Insults You!
 
