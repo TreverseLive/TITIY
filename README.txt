@@ -1,3 +1,5 @@
+# TITIY
+
 Hi! Thank you for downloading TITIY: the Tap-It That Insults You!
 
 This project was written and designed by me, Treverse! 
