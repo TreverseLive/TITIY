@@ -65,9 +65,7 @@ For inquires, please contact [treverse.biz@gmail.com](mailto:treverse.biz@gmail.
 * Reformatted the general size and position of game elements.
 * Added a completely new page to the game that allows players to import their own local sound files quickly, easily, and efficiently, to overwrite preexisting default sounds. 
 * Only .wav files are accepted at this moment.
-	* Added support for these sound files by making the game automatically dynamically 
-		  adjust itself to the duration of the files, adding support for any and all 
-		  .wav files.
+     * Added support for these sound files by making the game automatically dynamically adjust itself to the duration of the files, adding support for any and all `.wav` files.
 * Adjusted waiting durations of default files, making them much more accurate and fair.
 
 ### [1.0.1](https://github.com/TreverseLive/TITIY/releases/tag/v1.0.1)
