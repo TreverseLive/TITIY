@@ -27,14 +27,20 @@ For inquires, please contact treverse.biz@gmail.com
 4. Have fun!
 
 ----------------------------------------------CHANGELOG----------------------------------------------
-[2.2.0] - ??-??-23
-	- Full public release.
+[2.2.0] - 06-15-23
+	- Full public release!
+	- Added a start page.
+	- Added a credits page.
+	- Cleaned up naming schemes.
+	- Cleaned up small bugs.
 	- Added a written link to the bug report form in case the hyperlink fails.
 
 	KNOWN BUGS:
 	- Entire game freezes while a voice line is being played. This is due to the fact that
 	  the program is put to sleep while playing a voice line, to avoid overwriting anything
 	  as well as to prevent the timer from running during a voice line.
+	- Norton Security hates this game with a burning passion and will remove it from your PC
+	  at the earliest convenience. This unfortunately isn't something I can fix.
 
 [2.1.1] - 01-27-23
 	- Color-coded buttons on the Sound Effect Editor screen to avoid confusion.
