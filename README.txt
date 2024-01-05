@@ -5,7 +5,7 @@ This project was written and designed by me, Treverse!
 should be forwarded their way. In addition, small snippets of code have been inspired by similar
 code found on StackOverflow, and sound effects are found from Pixabay.com.)
 
-Visit all of my socials at https://treverse.carrd.co
+Visit all of my socials at https://treverse.live
 For inquires, please contact treverse.biz@gmail.com
 
 ------------------------------------------HOW TO DOWNLOAD:------------------------------------------
